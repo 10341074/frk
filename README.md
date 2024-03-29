@@ -1,0 +1,2 @@
+# frk
+fixed rank kriging
